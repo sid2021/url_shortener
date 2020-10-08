@@ -1,4 +1,4 @@
-# Timestamp API
+# URL Shortener API
 
 This is a project which is part of the [FreeCodeCamp's API and Microservices Certification](https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/url-shortener-microservice).
 
